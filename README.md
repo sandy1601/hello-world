@@ -1,2 +1,2 @@
 # hello-world
-first repository
+i am new to github and its awesome
